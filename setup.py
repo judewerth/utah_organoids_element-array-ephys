@@ -35,7 +35,7 @@ setup(
         "plotly",
         "seaborn",
         "spython",
-        "cuda-python",
+        "spikeinterface>=0.101.0,<0.104.0",
         "scikit-image",
         "nbformat>=4.2.0",
         "pyopenephys>=1.1.6",
