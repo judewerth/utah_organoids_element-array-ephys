@@ -34,7 +34,7 @@ setup(
         "openpyxl",
         "plotly",
         "seaborn",
-        "spikeinterface>=0.101.0,<0.104.0",
+        "spikeinterface<0.104.0",
         "spython",
         "cuda-python",
         "scikit-image",
